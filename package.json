@@ -1,0 +1,13 @@
+{
+  "name": "cgc-rsp",
+  "version": "1.0.0",
+  "main": "sha-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sha-1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
